@@ -1,0 +1,34 @@
+<resources>
+<string name="app_name">remindertask</string>
+    <string name="task_category">Categoria</string>
+    <string name="task_title">Título da tarefa</string>
+    <string name="task_due_date">Data de Vencimento</string>
+    <string name="edit_task_button">Editar</string>
+    <string name="delete_task_button">Remover</string>
+    <string name="task_description">Descrição</string>
+    <string name="reminder_date">Data do lembrete</string>
+    <string name="pick_date">Escolher data</string>
+    <string name="reminder_time">Hora do Lembrete</string>
+    <string name="pick_time">Escolher hora do lembrete</string>
+    <string name="save_task">Salvar lembrete</string>
+    <string name="welcome">Bem-Vindo!</string>
+    <string name="username">Nome de Usuário</string>
+    <string name="password">Digite a sua senha</string>
+    <string name="login">Login</string>
+    <string name="new_login">Não tem uma conta? Registre-se</string>
+    <string name="task_list">Lista de Tarefas</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="confirm_password">Confirme a sua senha</string>
+    <string name="register">Criar conta</string>
+    <string name="make_login">Já tem uma conta? Faça login</string>
+    <string-array name="priority_array">
+        <item>Alta</item>
+    <item>Média</item>
+    <item>Baixa</item>
+
+
+
+
+
+</string-array>
+</resources>
